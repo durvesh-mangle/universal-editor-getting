@@ -5,6 +5,6 @@
     "/content/durvesh-eds-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor/"
+    "/content/durvesh-eds-poc/"
   ]
 }
