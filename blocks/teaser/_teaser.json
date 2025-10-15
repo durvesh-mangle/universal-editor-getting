@@ -11,7 +11,22 @@
             "model": "teaser",
             "textContent_text": "<h2>Enter a title</h2><p>...and body text here!</p>",
             "textContent_cta": "/",
-            "textContent_ctaText": "Click me!"
+            "textContent_ctaText": "Click me!",
+            "key-value": true,
+            "keywords": ["Developer","Courses"],
+            "limit": 4,
+            "item_0": {
+              "model": "linked-icon",
+              "image": "/content/dam/partners/foo.png",
+              "imageAlt": "Icon of Foo",
+              "link": "https://foo.com/"
+            },
+            "item_1": {
+              "model": "linked-icon",
+              "image": "/content/dam/partners/bar.png",
+              "imageAlt": "Icon of Bar",
+              "link": "https://bar.com"
+            }
           }
         }
       }
