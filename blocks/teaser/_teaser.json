@@ -11,7 +11,13 @@
             "model": "teaser",
             "textContent_text": "<h2>Enter a title</h2><p>...and body text here!</p>",
             "textContent_cta": "/",
-            "textContent_ctaText": "Click me!"
+            "textContent_ctaText": "Click me!",
+            "link": "https://www.adobe.com",
+            "linkTitle": "Navigate to adobe.com",
+            "linkText": "adobe.com",
+            "linkType": "primary",
+            "heading": "Getting started",
+            "headingType": "h2"
           }
         }
       }
